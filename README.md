@@ -12,7 +12,8 @@ Benvenuto sul mio profilo GitHub! Sono uno sviluppatore appassionato di tecnolog
 
 ## 🛠️ Tecnologie e strumenti
 
-![My Skills](https://skillicons.dev/icons?i=HTML,CSS,js,Vue,PHP,Laravel,MySQL,Git,Bootstrap,Angular,Typescript)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,git,bootstrap,angular,typescript)
+
 
 ## 📫 Come contattarmi
 
