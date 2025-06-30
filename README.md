@@ -1,16 +1,32 @@
-## Hi I'm Augusto 👋
+# 👋 Ciao, sono Augusto!
 
-<!--
-**AugustoM94/AugustoM94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto sul mio profilo GitHub! Sono uno sviluppatore appassionato di tecnologia, innovazione e tutto ciò che ruota attorno al mondo del software. 🚀
 
-Here are some ideas to get you started:
+## 👨‍💻 Chi sono
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Background in [Master Boolean ]
+- 🔭 Attualmente sono in cerca di lavoro...
+- 💡 Mi piace creare soluzioni semplici a problemi complessi
+
+
+
+## 🛠️ Tecnologie e strumenti
+
+![My Skills](https://skillicons.dev/icons?i=HTML,CSS,js,Vue,PHP,Laravel,MySQL,Git,Bootstrap,Angular,Typescript)
+
+## 📫 Come contattarmi
+
+- ✉️ Email: [augustomarzojobs94@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/augusto-marzo-5629b92b1
+
+
+## ⚡ Curiosità
+
+- Amo imparare cose nuove ogni giorno
+- Ho voglia di mettermi in gioco e avere l'oppurtunità desiderata
+
+
+---
+Carpe Diem!
+
+
